@@ -1,8 +1,8 @@
  # Custom Cursor for Chrome™
 ![Custom Cursor Banner](custom-cursor-for-chrome-store.png) 
 
-[![Install on Chrome](https://img.shields.io/badge/Install%20on-Chrome-brightgreen?style=for-the-badge&logo=google-chrome)](https://chrome.google.com/webstore/detail/YOUR_EXTENSION_ID)
-[![Add to Chrome](https://img.shields.io/badge/Add%20to-Chrome-blue?style=for-the-badge&logo=google-chrome)](https://chrome.google.com/webstore/detail/YOUR_EXTENSION_ID)
+[![Install on Chrome](https://img.shields.io/badge/Install%20on-Chrome-brightgreen?style=for-the-badge&logo=google-chrome)](https://chrome.google.com/webstore/detail/jjgpjnpjkflnmgpabojaljfkonfnckbd)
+[![Add to Chrome](https://img.shields.io/badge/Add%20to-Chrome-blue?style=for-the-badge&logo=google-chrome)](https://chrome.google.com/webstore/detail/jjgpjnpjkflnmgpabojaljfkonfnckbd)
 
 ## Fun Custom Cursors for Chrome™
 
@@ -48,8 +48,8 @@ Create your own collection of mouse cursors from any images using our Custom Cur
 
 To install the Custom Cursor for Chrome extension, simply click one of the buttons below:
 
-[![Install on Chrome](https://img.shields.io/badge/Install%20on-Chrome-brightgreen?style=for-the-badge&logo=google-chrome)](https://chrome.google.com/webstore/detail/YOUR_EXTENSION_ID)
-[![Add to Chrome](https://img.shields.io/badge/Add%20to-Chrome-blue?style=for-the-badge&logo=google-chrome)](https://chrome.google.com/webstore/detail/YOUR_EXTENSION_ID)
+[![Install on Chrome](https://img.shields.io/badge/Install%20on-Chrome-brightgreen?style=for-the-badge&logo=google-chrome)](https://chrome.google.com/webstore/detail/jjgpjnpjkflnmgpabojaljfkonfnckbd)
+[![Add to Chrome](https://img.shields.io/badge/Add%20to-Chrome-blue?style=for-the-badge&logo=google-chrome)](https://chrome.google.com/webstore/detail/jjgpjnpjkflnmgpabojaljfkonfnckbd)
 
 > **Note:** Replace `YOUR_EXTENSION_ID` with the actual ID of your extension from the Chrome Web Store.
 
