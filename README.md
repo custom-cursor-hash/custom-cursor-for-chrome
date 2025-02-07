@@ -72,14 +72,3 @@ To install the Custom Cursor for Chrome extension, simply click one of the butto
 
 5. **Create Cursors:**  
    Use our Custom Cursor Creator tool on our website to convert any arrow or pointer-shaped image into a unique cursor pack.
-
----
-
-## Contributing
-
-We welcome contributions from the community! To contribute:
-
-1. **Fork** the repository.
-2. Create a new branch:
-   ```bash
-   git checkout -b feature/YourFeatureName 
